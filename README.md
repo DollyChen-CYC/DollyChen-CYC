@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Dolly Chen. </h1>
 <h3 align="center"> A passionate frontend developer from Taiwan </h3>
-<h4 align="center"> I am a programmer-to-be graduate from Full Stack Web Development Program at 
+<h4 align="center"> I am a programmer-to-be graduated from Full Stack Web Development Program at 
   <a href="https://tw.alphacamp.co/">
     AlphaCamp
   </a>
@@ -62,20 +62,3 @@
 <a href="mailto:dollychen.yiching@gmail.com">
   <img src="https://img.shields.io/badge/dollychen.yiching@gmail.com-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
 </a>
-
-
-
-<!--
-**DollyChen-CYC/DollyChen-CYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
