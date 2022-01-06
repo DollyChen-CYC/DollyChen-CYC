@@ -11,7 +11,9 @@
   </a> 
 </h4> 
 <p align="center">
-  <img height="500" src="https://github.com/DollyChen-CYC/portfolio/blob/main/src/assets/images/portfolio_screenshot.png" alt="Portfolio Web Screenshot" />
+  <a href="https://dollychen-cyc.github.io/portfolio/#/home">
+  <img height="400" src="https://github.com/DollyChen-CYC/portfolio/blob/main/src/assets/images/portfolio_screenshot.png" alt="Portfolio Web Screenshot" />
+  </a>
 </p>
 <br>
 
