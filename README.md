@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Dolly Chen. </h1>
 <h3 align="center"> A passionate frontend developer from Taiwan </h3>
-<h4 align="center"> I am a programmer-to-be graduated from Full Stack Web Development Program at 
+<h4 align="center"> I am a programmer-to-be, graduated from Full Stack Web Development Program at 
   <a href="https://tw.alphacamp.co/">
     AlphaCamp
   </a>
