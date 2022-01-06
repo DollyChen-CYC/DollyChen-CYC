@@ -15,8 +15,6 @@
   <img height="400" src="https://github.com/DollyChen-CYC/portfolio/blob/main/src/assets/images/portfolio_screenshot.png" alt="Portfolio Web Screenshot" />
   </a>
 </p>
-<br>
-
 
 
 <h4> Languages, Skills and Tools </h4>
@@ -61,8 +59,8 @@
 <a href="https://www.linkedin.com/in/dolly-yiching-chen/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
-<a href="mailto:dolly726033@gmail.com">
-  <img src="https://img.shields.io/badge/email-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
+<a href="mailto:dollychen.yiching@gmail.com">
+  <img src="https://img.shields.io/badge/dollychen.yiching@gmail.com-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
 </a>
 
 
