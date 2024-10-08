@@ -8,7 +8,7 @@
 </h4> 
 <p align="center">
   <a href="https://www.wnning.com">
-  ![Preview of Wnning.com](./src/video/wnning_preview.gif)
+  <img src="./src/video/wnning_preview.gif" alt="Preview of Wnning.com" height="400">
   </a>
 </p>
 
