@@ -3,6 +3,10 @@
 
 <p align="center">My passion lies in delivering seamless and intuitive user experiences. With a well-rounded skill set in full-stack development, I focus on building high-performance and user-friendly interfaces while ensuring smooth interaction between front-end and back-end systems.</p>
 
+<h4 align="center">👉 If you're interested in my experience, feel free to view my 
+  <a href="https://github.com/DollyChen-CYC/DollyChen-CYC/blob/main/src/doc/Resume_DollyChen(%E9%99%B3%E5%84%80%E7%92%9F).pdf">Resume</a>.
+</h4>
+
 <h4 align="center">👉 Check out my latest website, built with React.js and deployed on AWS Amplify:
   <a href="https://www.wnning.com">Wnning.com 👀</a>
 </h4> 
@@ -21,15 +25,13 @@
   </a>
 </p>
 
-<h4 align="center">👉 If you're interested in my experience, feel free to view my 
-  <a href="https://github.com/DollyChen-CYC/DollyChen-CYC/blob/main/src/doc/Resume_DollyChen(%E9%99%B3%E5%84%80%E7%92%9F).pdf">Resume</a>.
-</h4>
-
 <h2> 🛠️ Skills </h2>
 
-- **Front-End**: JavaScript (ES6+), HTML5, CSS3, Sass/SCSS, React.js, Vue.js, Responsive Web Design (RWD), Axios, Data Visualization tools, CSS-in-JS, Bootstrap
-- **Back-End**: Node.js, Express.js, Handlebars, Mongoose (MongoDB), Sequelize ORM, MySQL, Python
-- **Others**: Electron.js, Git (Version Control), RESTful API, Postman, Figma
+- **Front‑end / UI:** JavaScript, React, Vue, HTML/CSS, Sass/SCSS, responsive design, Figma, usability testing, Data Visualization tools
+- **Back‑end / Data:** Node.js, Express.js, RESTful APIs, MongoDB (Mongoose), MySQL (Sequelize), Python, Docker
+- **Quality / Support Tools:** Git, Postman, RPA (n8n, Microsoft Power Automate), CI/CD, Google Analytics
+- **Product / Management:** Roadmap, OKRs, PRD, NPD, user stories, backlog prioritization, release planning, MVP, Agile, stakeholder management, go‑to‑market, project management, budget and scope management
+
 
 <h4> Frameworks </h4>
 <a href="https://www.electronjs.org/">
